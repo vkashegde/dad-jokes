@@ -51,9 +51,9 @@
 
 }
 
-/* .JokeList-jokes::-webkit-scrollbar {
+ .JokeList-jokes::-webkit-scrollbar {
     display: none;
-  } */
+ }
 
   .JokeList-spinner {
       color: white;
