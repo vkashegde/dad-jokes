@@ -48,3 +48,8 @@
 .JokeList-jokes::-webkit-scrollbar {
     display: none;
   }
+
+  .JokeList-spinner {
+      color: white;
+      text-align: center;
+  }
